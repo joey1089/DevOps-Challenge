@@ -1,0 +1,32 @@
+.env
+__pycache__/
+*.zip
+
+# these are extra can be ignored
+# Byte-compiled files
+*.py[cod]
+__pycache__/
+
+# Distribution files
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+
+# Build artifacts
+*.so
+*.dylib
+*.dll
+
+# IDE and editor files
+*.swp
+*.swo
+*.swn
+.idea/
+
+# Logs and cache
+*.log
+*.log.*
