@@ -7,8 +7,6 @@ Day 1: Building a weather Dashboard using AWS S3 and OpenWeather API
 I have added html page to display weather dashboard it shows the three cities weather details.
 
 
-
-
 Resource requirement of this project:-
 1. OpenWeather API
     => Register yourself and get the API key on this site https://openweathermap.org/api
