@@ -26,6 +26,9 @@ venv/
 *.swo
 *.swn
 .idea/
+.vscode/
+
+
 
 # Logs and cache
 *.log
